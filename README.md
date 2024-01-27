@@ -1,7 +1,5 @@
 # PSA-MolGen: An Innovative Multi-Scale Generative Model for Structure-Based De Novo Drug Design
 
-![pipeline](images/mod2.png)
-
 ### Requirements
 
 Model training is written in `pytorch==1.11.0` and uses `keras==2.4.0` for data loaders. `RDKit==2020.09.5` is needed for molecule manipulation.
